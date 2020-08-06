@@ -1,6 +1,6 @@
 .navbar {
   overflow: hidden;
-  background-color: #6F6868;
+  background-color: #B8B4B4;
 }
 .navbar a {
   float: left;
@@ -10,3 +10,10 @@
   text decoration: none;
   font-size: 20 px;
 }
+    .jumbotron {
+      margin-top: 20px;
+      background-size: cover;
+      color: red;
+      background-image: url("https://github.com/tubale/Tanayportfolio/blob/master/forest.jpeg?raw=true"
+    
+    }
