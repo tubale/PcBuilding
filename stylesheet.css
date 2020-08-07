@@ -13,7 +13,58 @@
     .jumbotron {
       margin-top: 20px;
       background-size: cover;
-      color: red;
-      background-image: url("https://github.com/tubale/Tanayportfolio/blob/master/forest.jpeg?raw=true"
+      color: #750904;
+      background-color: #0027FF
     
     }
+h1 {
+  border-bottom: 5px dotted red;
+  -webkit-animation:colorchange 5s infinite alternate;
+}
+
+@-webkit-keyframes colorchange{
+  0% {
+    color: FFD400;
+  }
+  20% {
+    color: 00FF63;
+  }
+   40% {
+     color: blue;
+  }
+  60% {
+    color: 0040FF;
+  }
+  80% {
+    color: purple;
+  }
+  100% {
+    color: green:
+  }
+}
+
+h3 {
+  border-bottom: 5px dotted red;
+  -webkit-animation:colorchange 5s infinite alternate;
+}
+
+@-webkit-keyframes colorchange{
+  0% {
+    color: FFD400;
+  }
+  20% {
+    color: 00FF63;
+  }
+   40% {
+     color: blue;
+  }
+  60% {
+    color: 0040FF;
+  }
+  80% {
+    color: purple;
+  }
+  100% {
+    color: green:
+  }
+}
