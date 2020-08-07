@@ -10,13 +10,7 @@
   text decoration: none;
   font-size: 20 px;
 }
-    .jumbotron {
-      margin-top: 20px;
-      background-size: cover;
-      color: #750904;
-      background-color: #0027FF
-    
-    }
+
 h1 {
   border-bottom: 5px dotted red;
   -webkit-animation:colorchange 5s infinite alternate;
