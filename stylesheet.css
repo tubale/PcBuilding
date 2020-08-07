@@ -10,6 +10,11 @@
   text decoration: none;
   font-size: 20 px;
 }
+
+.hometocenter {
+text-align: center
+}
+
 .jumbotron {
   margin-top: 20px;
   background-size: cover;
@@ -66,8 +71,3 @@ h3 {
   }
 }
 
-
-.hometocenter {
-text-align: center
-
-}
